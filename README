@@ -81,7 +81,7 @@ For access all releases of the HBN-EEG dataset, follow this [link on NEMAR.org](
 - **S3 URI:** `s3://fcp-indi/data/Projects/HBN/BIDS_EEG/cmi_bids_R11`
 - **Total subjects:** 430
 
-#### **Not for Commercial Use** | *This dataset is intended for research purposes only under the CC-BY-NC-SA-4.0 License and is not currently hosted on OpenNeuro/NEMAR. Any commercial use is prohibited.*
+#### **Release NC** | *--NOT FOR COMMERCIAL USE-- This dataset is intended for research purposes only under the CC-BY-NC-SA-4.0 License and is not currently hosted on OpenNeuro/NEMAR. Any commercial use is prohibited.*
 - **S3 URI:** `s3://fcp-indi/data/Projects/HBN/BIDS_EEG/cmi_bids_NC`
 - **Total subjects:** 458
 
